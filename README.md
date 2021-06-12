@@ -3,8 +3,8 @@
 # "부동산 투자만큼 돈 많이 벌 수 있는 KOSPI 종목 ETF 만들기"
 
 ## Participant
-- 남동욱(dwn920919@gmail.com)
-- 서민지(jaaaamj0711@gmail.com)
+- 남동욱(dwn920919@gmail.com) - 호두형
+- 서민지(jaaaamj0711@gmail.com) - Hayo
 
 ## Introduce
 투자 방법 중 이슈 키워드인 "부동산"과 "주식" 데이터를 활용하여 상관관계를 분석한 후 
